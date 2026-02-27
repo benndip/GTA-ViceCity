@@ -256,7 +256,7 @@
                     "name": "Buy",
                     "type": "Button",
                     "id": "eab8ac3c-67ce-4976-8b9b-501ef4a6f170",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
